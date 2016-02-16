@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisseraphi01italgoog/doctorisseraphi01italgoog_0626.png"; bbox 0 0 5942 8292; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1010 3585 2309 3673">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1010 3517 2309 3688">
+     <span class='ocr_line' id='line_1_1' title="bbox 1010 3585 2309 3673; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1010 3585 1260 3673; x_wconf 88' lang='lat' dir='ltr'><strong>DUORUM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1286 3585 1715 3672; x_wconf 78' lang='lat' dir='ltr'>OPUSOULORUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1744 3587 1970 3672; x_wconf 75' lang='lat' dir='ltr'>SALTEM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1999 3585 2309 3672; x_wconf 89' lang='lat' dir='ltr'>DUBIORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 743 4011 2388 4226">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 743 3979 2388 4226">
+     <span class='ocr_line' id='line_1_2' title="bbox 743 4011 2388 4226; baseline 0.001 -4"><span class='ocrx_word' id='word_1_5' title='bbox 743 4011 744 4014; x_wconf 7' lang='grc' dir='ltr'><em>Ὗ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 936 4085 1221 4226; x_wconf 66' lang='lat' dir='ltr'>Exposfflo</span> <span class='ocrx_word' id='word_1_7' title='bbox 1266 4085 1602 4224; x_wconf 65' lang='lat' dir='ltr'>TERENORUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1642 4085 1711 4224; x_wconf 63' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1756 4083 2050 4224; x_wconf 61' lang='lat' dir='ltr'>olzfflole</span> <span class='ocrx_word' id='word_1_10' title='bbox 2090 4085 2388 4226; x_wconf 56' lang='lat' dir='ltr'>nomem</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2976 8292">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2976 8292">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2976 8292; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2976 8292; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
